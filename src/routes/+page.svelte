@@ -26,7 +26,7 @@
 
 <svelte:head>
 	<title>MyHub.page - a place for links</title>
-	<meta name="description" content="Demo project for the Full SvelteKit Course by Fireship" />
+	<meta name="description" content="Simple hub to share all your links in one place!" />
 </svelte:head>
 
 <main class="flex w-full min-h-screen">
