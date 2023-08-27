@@ -27,7 +27,7 @@
 <svelte:head>
 	<title>MyHub.page - a place for links</title>
 	<meta name="description" content="Simple hub to share all your links in one place!" />
-	<link rel="icon" type="image/png" href="/favicon.ico" />
+	<link rel="icon" type="image/x-icon" href="/favicon.ico" />
 	<meta property="og:image" content="/custom.png" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:image" content="/custom.png" />
